@@ -27,7 +27,7 @@
 
     <groupId>org.wso2.extension.siddhi.gpl.execution.geo</groupId>
     <artifactId>siddhi-gpl-execution-geo-parent</artifactId>
-    <version>3.2.0</version>
+    <version>3.2.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>WSO2 Siddhi Execution Extension - Geo Aggregator Pom</name>
     <url>http://wso2.org</url>
@@ -58,7 +58,7 @@
         <url>https://github.com/wso2-extensions/siddhi-gpl-execution-geo.git</url>
         <developerConnection>scm:git:https://github.com/wso2-extensions/siddhi-gpl-execution-geo.git
         </developerConnection>
-        <tag>v3.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencyManagement>
